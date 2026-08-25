@@ -1,0 +1,57 @@
+{
+  "users": {
+    "907899077071613962": {
+      "points": 1,
+      "money": 900,
+      "bank": 0,
+      "bank_last_interest": 1787418215699,
+      "inv": [],
+      "last_daily": 0,
+      "loan": {
+        "status": "none",
+        "borrowed_at": 0,
+        "last_borrowed": 0
+      },
+      "disabled_until": 0,
+      "reset_money_after_ban": false,
+      "titles": [],
+      "last_fish": 1787418225299,
+      "rareItems": [],
+      "last_kham": 0,
+      "total_rare_found": 0,
+      "fish_caught": 1,
+      "first_interaction_at": 1787418215699,
+      "last_transfer": 0,
+      "insurance": false
+    }
+  },
+  "shop": {
+    "current_items": [],
+    "next_refresh": 0
+  },
+  "titleRoleIds": {
+    "1450510273340506327_title_tapsu": "1517755581329309859",
+    "1450510273340506327_title_thanthiet": "1517755584445939883",
+    "1450510273340506327_title_tincau": "1517755586341634182",
+    "1450510273340506327_title_dacbiet": "1517755588568813728",
+    "1450510273340506327_title_doiNino": "1540768184817287168"
+  },
+  "economy": {
+    "total_sink": 0,
+    "total_fishing_income": 900,
+    "total_fish_caught": 1
+  },
+  "market": {
+    "listings": []
+  },
+  "transactionLog": [
+    {
+      "time": 1787418225300,
+      "type": "cauca",
+      "uid": "907899077071613962",
+      "amount": 900,
+      "detail": "Cá Chép Vàng 🐠",
+      "flagged": false
+    }
+  ]
+}
