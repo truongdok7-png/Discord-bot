@@ -1,6 +1,5 @@
 # 🎀 Nino Discord Bot
 
-A feature-rich economy and romance simulation Discord bot with AI integration using Groq API.
 
 ## 📋 Overview
 
