@@ -142,7 +142,7 @@ MODEL=mixtral-8x7b-32768  # or other Groq model
 1. Clone the repository
 2. npm install
 3. Create .env file with required credentials
-4. node index.js  # or use pm2/forever for persistence
+4. node nino.js  # or use pm2/forever for persistence
 ```
 
 ---
